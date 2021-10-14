@@ -93,7 +93,7 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>
 
 ## Credits
 
-- [AsmSafone](https://github.com/AsmSafone) for [Noting](https://github.com/AsmSafone/VideoPlayerBot) 😬
+- [AsmSafone](https://github.com/AsmSafone) for [This Repo](https://github.com/AsmSafone/VideoPlayerBot) 😬
 - [Dan](https://github.com/delivrance) for [Pyrogram](https://github.com/pyrogram/pyrogram) ❤️
 - [MarshalX](https://github.com/MarshalX) for [pytgcalls](https://github.com/MarshalX/tgcalls) ❤️
 - [Me](https://github.com/TharukRenuja) for Nothing or Modifications🤣.
